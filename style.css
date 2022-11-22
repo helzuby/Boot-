@@ -1,0 +1,38 @@
+*{
+	margin: 0;
+	padding: 0;
+	font-family: sans-serif;
+	font-size: 16px;
+}
+
+img{
+	width: 100%;
+}
+.container{
+	padding-top: 2%;
+}
+
+.header{
+	padding-bottom: 1%;
+	font-size: 14px;
+}
+
+.font{
+	color: #d3d3d3;
+}
+
+.col-lg-8{
+	background-color: #fff;
+}
+.column{
+	background-color: #fff;
+	padding: 3% 5% 1%;
+}
+.bg-dark{
+	padding: 3% 5% 1%;
+}
+.main-image{
+	padding-bottom: 2%;
+	width: 100%;
+}
+}
